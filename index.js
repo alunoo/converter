@@ -42,27 +42,3 @@ function reinicio(){
 
     }
 }
-
-
-
-
-// retry()
-
-// function retry(){
-
-//     const rein = y
-//     const noRein = n
-    
-    
-//     while(rein) {
-//         if(prompt = y){
-//             verifyConversion = prompt
-//         }
-//         if(prompt = n){
-            
-//         }
-//     }
-// }
-
-
-    
